@@ -1,0 +1,31 @@
+.app {
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+}
+
+.header {
+    text-align: center;
+    background: #000;
+    margin-top: -10px;
+}
+
+.ticker-body {
+    text-align: center;
+    background:#1ECE99;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+}
+
+.ticker-image {
+    margin-bottom: -25px;
+}
+
+.ticker-name {
+    margin-bottom: -25px;
+}
+
+.ticker-price {
+    margin-bottom: -25px;
+}
